@@ -303,7 +303,7 @@ These terms come up in every IT support interview and are tested in ITIL Foundat
 
 ### 1. Completed Incident (Work Notes + Resolution)
 
-![Completed Incident](screenshots/01-incident-resolved.png)
+![Completed Incident](https://github.com/glenpagesr-dev/Servicenow-ITSM/blob/main/Completed%20Incident.png)
 
 This is the closed `INC` record showing the full lifecycle — caller, category, priority, the internal work note, and the resolution notes. It demonstrates the **incident management** process: the single most common task in IT support. Every break-fix issue an end user reports is captured here so it is tracked, owned by one person, worked with an audit trail, and closed only after the user confirms the fix. This is what prevents the "three people, three technicians, four-hour outage" problem described at the top of this lab.
 
