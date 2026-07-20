@@ -315,7 +315,7 @@ This is the **New Laptop Request** catalogue item with its variables (requester 
 
 ### 3. Change Request with Approval
 
-![Change Approval](screenshots/03-change-approval.png)
+![Change Approval](https://github.com/glenpagesr-dev/Servicenow-ITSM/blob/main/Change%20Approval.png)
 
 This is the standard change request for the security-patch deployment, showing it moving to **Scheduled** after approval. It demonstrates **change management** — the ITIL control that requires authorisation, a test plan, and a backout plan before anything touches production. This is what keeps infrastructure changes coordinated and prevents an uncoordinated modification from causing an outage. It also produces the paper trail auditors and change advisory boards require.
 
