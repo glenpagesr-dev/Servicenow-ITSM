@@ -309,7 +309,7 @@ This is the closed `INC` record showing the full lifecycle — caller, category,
 
 ### 2. Service Catalogue Item
 
-![Service Catalogue Item](screenshots/02-catalog-item.png)
+![Service Catalogue Item](https://github.com/glenpagesr-dev/Servicenow-ITSM/blob/main/Service%20Catalogue%20Item.png)
 
 This is the **New Laptop Request** catalogue item with its variables (requester name, business justification, required-by date, model preference). It demonstrates the **service request** process. Instead of calling the help desk for routine requests, users self-serve through a structured form that captures everything the fulfilment team needs up front. This reduces ticket volume, standardises intake, and speeds up delivery — a direct efficiency win for any IT organisation.
 
