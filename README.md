@@ -321,7 +321,7 @@ This is the standard change request for the security-patch deployment, showing i
 
 ### 4. Dashboard Report
 
-![Incident Report](screenshots/04-incident-report.png)
+![Incident Report](https://github.com/glenpagesr-dev/Servicenow-ITSM/blob/main/Incident%20Report.png)
 
 This is the **Incident Volume by Priority — Last 30 Days** bar chart. It demonstrates **operational reporting**. Metrics like ticket volume, MTTR, and open incidents per agent are how IT managers spot trends, balance workload, measure SLA compliance, and justify staffing. Being able to pull and interpret these reports is expected at every level of an IT career.
 
