@@ -10,6 +10,8 @@
 
 ---
 
+## 📺 [Watch Me Build the Lab Here](https://www.loom.com/share/3287e63843fc415d8c0b1ef0f60e067b)
+
 ## 📋 Lab Overview
 
 | Field | Value |
